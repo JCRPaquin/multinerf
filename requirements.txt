@@ -1,6 +1,5 @@
 numpy
-jax
-jaxlib
+jax[cuda]
 flax
 opencv-python
 Pillow
